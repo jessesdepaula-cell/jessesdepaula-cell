@@ -1,7 +1,7 @@
 # Olá! Sou o Jessé de Paula 👋
 
 ### Especialista em Automação, IA & Implantação Técnica | Soluções SaaS
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessedepaula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jess%C3%A9-de-paula-9136b11b0/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521997267809)
 [![Email](https://img.shields.io/badge/Email-jessesdepaula%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessesdepaula@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-BilyTech-FF7A00?style=for-the-badge)](https://bilytech.com.br)
@@ -55,5 +55,5 @@ Em Estudo:      Java (POO, Spring Boot) · Golang
 ---
 
 <p align="center">
-  <b>Vamos conversar?</b> Entre em contato pelo <a href="https://www.linkedin.com/in/jessedepaula">LinkedIn</a> ou via <a href="https://wa.me/5521997267809">WhatsApp</a>.
+  <b>Vamos conversar?</b> Entre em contato pelo <a href="https://www.linkedin.com/in/jess%C3%A9-de-paula-9136b11b0/">LinkedIn</a> ou via <a href="https://wa.me/5521997267809">WhatsApp</a>.
 </p>
