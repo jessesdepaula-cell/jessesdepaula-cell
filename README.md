@@ -13,7 +13,7 @@
 Profissional com **mais de 10 anos de experiência prática** conectando regras de negócio, operação e tecnologia. Especialista em conduzir a jornada completa de sistemas: do levantamento de requisitos, arquitetura e parametrização até o go-live em produção e adoção real pelos usuários.
 
 - 🤖 **Automação & IA:** Integração da **API Oficial do WhatsApp (Meta Cloud API)**, agentes inteligentes com suporte a áudio/voz e automação com pausa inteligente quando humano assume.
-- ⚙️ **Desenvolvimento Full Stack & SaaS:** Modelagem de sistemas multi-tenant com **TypeScript, Next.js, Node.js e Supabase/PostgreSQL**.
+- ⚙️ **No-Code & Soluções SaaS:** 3 anos de no-code. Construo sistemas multi-tenant com apoio de IA, colocando no ar e acompanhando o uso.
 - 👥 **Implantação & Pessoas:** Treinador e Analista DISC certificado, com histórico de capacitação de equipes de grandes marcas (BYD, Toyota, Nissan) e facilitação na Fundação Estudar.
 - 🌱 **Evolução Contínua:** Aprofundando estudos em Engenharia Back-end com **Java (POO, Spring Boot, REST APIs)** e **Go**.
 
@@ -23,9 +23,9 @@ Profissional com **mais de 10 anos de experiência prática** conectando regras 
 
 ```
 Frontend:       TypeScript · JavaScript · Next.js · React · Tailwind CSS · Vite
-Backend:        Node.js · REST APIs · Webhooks · Supabase · PostgreSQL · Prisma
-Automação & IA: WhatsApp Business Cloud API · Meta Business Manager · AI Agents · n8n
-DevOps & Cloud: Git · GitHub · Vercel · Docker · CI/CD
+Backend:        Noções de Node.js · REST APIs · Webhooks
+Automação & IA: WhatsApp Business Cloud API · Meta Business Manager · AI Agents
+DevOps & Cloud: Git · GitHub · Vercel · Noções de Docker
 Negócio & CS:   Implantação de Sistemas · Onboarding · CRM · Método DISC · T&D
 Em Estudo:      Java (POO, Spring Boot) · Golang
 ```
@@ -36,10 +36,10 @@ Em Estudo:      Java (POO, Spring Boot) · Golang
 
 | Projeto | Descrição | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[Fazendo Esporte](https://fazendo-esporte.vercel.app)** | Gestão inteligente de manutenção de máquinas via QR Code com SLA de 24h e painel operacional | `TypeScript` `Next.js` `Supabase` | 🟢 [Produção](https://fazendo-esporte.vercel.app) |
+| **[Fazendo Esporte](https://fazendo-esporte.vercel.app)** | Gestão inteligente de manutenção de máquinas via QR Code com SLA de 24h e painel operacional | `TypeScript` `Next.js` | 🟢 [Produção](https://fazendo-esporte.vercel.app) |
 | **[BilyVet](https://billypet.vercel.app)** | Plataforma SaaS multi-tenant para clínicas veterinárias com IA nativa no WhatsApp e cobrança Asaas | `Next.js` `TypeScript` `WhatsApp API` | 🟢 [Produção](https://billypet.vercel.app) |
 | **[BilyFit](https://bilyfit.vercel.app)** | Plataforma SaaS para gestão integral de academias, planos e controle de alunos | `TypeScript` `React` `Next.js` | 🟢 [Produção](https://bilyfit.vercel.app) |
-| **[Select Mármores](https://select-marmores.vercel.app)** | Portal institucional de alta conversão + Dashboard de gestão e qualificação de leads | `Next.js` `Supabase` `CRM` | 🟢 [Produção](https://select-marmores.vercel.app) |
+| **[Select Mármores](https://select-marmores.vercel.app)** | Portal institucional de alta conversão + Dashboard de gestão e qualificação de leads | `Next.js` `CRM` | 🟢 [Produção](https://select-marmores.vercel.app) |
 | **[Publicador YouTube](https://publicador-youtube.vercel.app)** | Automação para processamento e publicação programada de vídeos | `TypeScript` `Node.js` `Automation` | 🟢 [Produção](https://publicador-youtube.vercel.app) |
 | **[Vetz Clínica](https://vetz-clinica.vercel.app)** | Landing page interativa para clínica veterinária com agendamento | `React` `Three.js` `Framer Motion` | 🟢 [Produção](https://vetz-clinica.vercel.app) |
 
